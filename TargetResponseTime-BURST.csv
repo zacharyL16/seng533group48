@@ -1,0 +1,11 @@
+Id,m1
+StatusCode,Complete
+Messages,
+Full label,us-east-2:AWS/ApplicationELB AvailabilityZone:us-east-2b LoadBalancer:app/teastore-alb/c97abc36db5fcf91 TargetGroup:targetgroup/teastore-webui-tg/b13a79cd96fb174d TargetResponseTime Average 60
+Label,TargetResponseTime
+2026/04/23 21:10:00,0.5835173569343992
+2026/04/23 21:11:00,0.5982954642814264
+2026/04/23 21:12:00,0.5849821544552115
+2026/04/23 21:13:00,0.5919942365155132
+2026/04/23 21:14:00,0.5844259252292499
+2026/04/23 21:15:00,0.7148860733333334
