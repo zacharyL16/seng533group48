@@ -1,0 +1,12 @@
+Id,m4,m5,m6
+StatusCode,Complete,Complete,Complete
+Messages,,,
+Full label,us-east-2:ECS/ContainerInsights ClusterName:teastore-cluster ServiceName:teastore-webui-task-service-sft1xyx4 MemoryUtilized Average 60,us-east-2:ECS/ContainerInsights ClusterName:teastore-cluster ServiceName:teastore-db-task-service-z4mgxdbh MemoryUtilized Average 60,us-east-2:ECS/ContainerInsights ClusterName:teastore-cluster ServiceName:teastore-recommender-task-service-7ogqj9vy MemoryUtilized Average 60
+Label,teastore-webui-task-service-sft1xyx4,teastore-db-task-service-z4mgxdbh,teastore-recommender-task-service-7ogqj9vy
+2026/04/23 22:39:00,457,,296
+2026/04/23 22:40:00,457,,296
+2026/04/23 22:41:00,459,,296
+2026/04/23 22:42:00,461,,296
+2026/04/23 22:43:00,462,,296
+2026/04/23 22:44:00,464,,296
+2026/04/23 22:45:00,460,,296

@@ -1,0 +1,12 @@
+Id,m3,m1,m2
+StatusCode,Complete,Complete,Complete
+Messages,,,
+Full label,us-east-2:ECS/ContainerInsights ClusterName:teastore-cluster ServiceName:teastore-recommender-task-service-7ogqj9vy CpuUtilized Average 60,us-east-2:ECS/ContainerInsights ClusterName:teastore-cluster ServiceName:teastore-webui-task-service-sft1xyx4 CpuUtilized Average 60,us-east-2:ECS/ContainerInsights ClusterName:teastore-cluster ServiceName:teastore-db-task-service-z4mgxdbh CpuUtilized Average 60
+Label,teastore-recommender-task-service-7ogqj9vy,teastore-webui-task-service-sft1xyx4,teastore-db-task-service-z4mgxdbh
+2026/04/23 20:59:00,10.416751708984377,15.554317626953127,
+2026/04/23 21:00:00,29.237287597656252,304.98224365234375,
+2026/04/23 21:01:00,36.865563964843744,463.642578125,
+2026/04/23 21:02:00,38.547742513020836,482.91558593750005,
+2026/04/23 21:03:00,37.98945719401041,486.1369140625,
+2026/04/23 21:04:00,37.00089274088541,481.82539062499995,
+2026/04/23 21:05:00,24.866540527343748,173.33022420247394,
